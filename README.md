@@ -61,14 +61,13 @@ El sistema permite funcionalidades específicas para dos tipos de usuarios:
 ¡Listo! Ahora el sistema está preparado para ser utilizado.
 
 
-## 🖼️ Captura de pantalla
-
-### Registro de usario
+## 🖼️ Capturas de pantalla iniciales
 
 ![Captura de inicio](funcionamiento1.jpg)
 ![Captura de inicio](funcionamiento2.jpg)
 ![Captura de inicio](funcionamiento3.jpg)
 ![Captura de inicio](funcionamiento4.jpg)
+![Captura de inicio](funcionamiento5.jpg)
 
 ---
 
