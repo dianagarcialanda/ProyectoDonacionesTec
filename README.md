@@ -1,38 +1,40 @@
-# Sistema de Gestión de Donaciones - ITO
+# 📚 Sistema de Gestión de Donaciones - ITO
 
-Este proyecto es una aplicación web para registrar y administrar donaciones (monetarias y en especie) en el Instituto Tecnológico de Orizaba. Fue desarrollado en equipo con fines académicos.
+Sistema web desarrollado como proyecto escolar para el Instituto Tecnológico de Orizaba. Permite registrar, consultar y gestionar donaciones, ofreciendo además visualización estadística y generación de comprobantes.
 
-## Tecnologías utilizadas
+---
 
-- HTML, CSS, JavaScript
-- PHP
-- MySQL
-- Patrón MVC
-- GitHub
+## 📝 Descripción del proyecto
 
-## Funcionalidades
+El sistema permite:
 
-- Registro de donantes y donaciones
-- Módulo de historial
-- Dashboards interactivos
-- Login con roles
-- Generación de comprobantes PDF
+- Registrar donantes y sus donaciones (en especie o monetarias).
+- Consultar el historial de donaciones.
+- Generar comprobantes en PDF.
+- Visualizar estadísticas mediante dashboards.
+- Gestionar usuarios con diferentes roles (administrador y donante).
 
-## Cómo correr el proyecto
+---
 
-1. Clonar el repositorio:
-2. Importar la base de datos incluida (`bd_donaciones.sql`) en tu servidor local.
-3. Abrir el proyecto desde un servidor local (por ejemplo, XAMPP).
-4. Ajustar los datos de conexión a la base de datos en el archivo de configuración.
+## 🖼️ Captura de pantalla
 
-## Vista previa
+Guarda tu imagen en una carpeta llamada `img` dentro del proyecto y asegúrate de que se llame `captura_inicio.png`.
 
-![Vista del sistema](ruta/a/la/imagen.png)
+![Captura de inicio](./img/captura_inicio.png)
 
-> Reemplaza `ruta/a/la/imagen.png` con la ruta real de la imagen que quieres mostrar. Puedes colocar la imagen en una carpeta llamada `/img/` por ejemplo.
+---
 
-## Créditos
+## 🛠️ Instalación y ejecución
 
-- Diana García Landa
-- Kevin [Apellido]
-- Equipo de desarrollo
+### Requisitos:
+- XAMPP (o cualquier servidor local con PHP y MySQL)
+- Navegador web
+- phpMyAdmin
+
+### Pasos:
+1. Coloca la carpeta del proyecto dentro de `C:\xampp\htdocs\`
+2. Abre XAMPP y ejecuta los servicios **Apache** y **MySQL**
+3. Abre tu navegador y entra a `http://localhost/phpmyadmin`
+4. Crea una base de datos llamada `donaciones_ito`
+5. Importa el archivo `bd_donaciones.sql` incluido en el proyecto
+6. Configura la conexión a la base de datos en:
