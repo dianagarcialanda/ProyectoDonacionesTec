@@ -65,7 +65,7 @@ El sistema permite funcionalidades específicas para dos tipos de usuarios:
 
 Guarda tu imagen en una carpeta llamada `img` dentro del proyecto y asegúrate de que se llame `captura_inicio.png`.
 
-![Captura de inicio](./img/captura_inicio.png)
+![Captura de inicio](funcionamiento1.jpg)
 
 ---
 
