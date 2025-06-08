@@ -30,7 +30,7 @@ El sistema permite funcionalidades específicas para dos tipos de usuarios:
 
 ---
 
-### Forma 1: Usando archivo comprimido `.zip`
+### Forma 1 (más facil): Usando archivo comprimido `.zip`
 
 1. Descarga el archivo comprimido `DonacionesTec.zip`.
 2. Descomprime el archivo.
