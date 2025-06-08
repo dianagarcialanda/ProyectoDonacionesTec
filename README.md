@@ -66,6 +66,9 @@ El sistema permite funcionalidades específicas para dos tipos de usuarios:
 ### Registro de usario
 
 ![Captura de inicio](funcionamiento1.jpg)
+![Captura de inicio](funcionamiento2.jpg)
+![Captura de inicio](funcionamiento3.jpg)
+![Captura de inicio](funcionamiento4.jpg)
 
 ---
 
