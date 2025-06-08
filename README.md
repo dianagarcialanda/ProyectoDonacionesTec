@@ -71,4 +71,19 @@ El sistema permite funcionalidades específicas para dos tipos de usuarios:
 
 ---
 
+## 🎓 Datos académicos
 
+**TECNOLÓGICO NACIONAL DE MÉXICO**  
+**Instituto Tecnológico de Orizaba**
+
+👥 **Equipo de alumnos:**  
+- García Landa Diana  
+- Gonzales Morgado Kevin Jose  
+- Ramirez Covarrubias Jose Manuel  
+- Hernadez Cardozo Emmanuel  
+
+👩‍🏫 **Docente:** Patricia Quitl González  
+📘 **Materia:** 6G5D Programación Web  
+📂 **Proyecto:** "CRUD Contactos"  
+
+🗓️ **Periodo:** Enero - Junio 2025  
