@@ -78,9 +78,9 @@ El sistema permite funcionalidades específicas para dos tipos de usuarios:
 
 👥 **Equipo de alumnos:**  
 - García Landa Diana  
-- Gonzales Morgado Kevin Jose  
-- Ramirez Covarrubias Jose Manuel  
-- Hernadez Cardozo Emmanuel  
+- González Morgado Kevin Jose  
+- Ramírez Covarrubias Jose Manuel  
+- Hernádez Cardozo Emmanuel  
 
 👩‍🏫 **Docente:** Patricia Quitl González  
 📘 **Materia:** 6G5D Programación Web  
