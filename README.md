@@ -48,7 +48,7 @@ El sistema permite funcionalidades específicas para dos tipos de usuarios:
 
 1. Descarga cada archivo que se encuentra en el repositorio
 2. Abre el directorio `C:\xampp\htdocs\` y crea una nueva carpeta llamada `DonacionesTec` (o el nombre que prefieras).
-3. Copia **todos los archivos y carpetas** que descragaste dentro de esta carpeta `DonacionesTec`.
+3. Copia **todos los archivos y carpetas** (excepto las imagenes del funcionamiento por no son necesarias) que descragaste dentro de esta carpeta `DonacionesTec`.
 4. Inicia los servicios **Apache** y **MySQL** desde el panel de control de XAMPP.
 5. Abre el navegador y accede a `http://localhost/phpmyadmin`.
 6. Crea una base de datos llamada `donaciones_ito`.
