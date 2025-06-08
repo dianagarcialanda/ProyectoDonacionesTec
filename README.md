@@ -8,7 +8,7 @@ Sistema web desarrollado como proyecto escolar para el Instituto Tecnológico de
 
 El sistema permite:
 
-- Registrar donantes y sus donaciones (en especie o monetarias).
+- Registrar donantes y sus donaciones (en especie, monetarias o a proyectos).
 - Consultar el historial de donaciones.
 - Generar comprobantes en PDF.
 - Visualizar estadísticas mediante dashboards.
