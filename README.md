@@ -63,7 +63,7 @@ El sistema permite funcionalidades específicas para dos tipos de usuarios:
 
 ## 🖼️ Captura de pantalla
 
-Guarda tu imagen en una carpeta llamada `img` dentro del proyecto y asegúrate de que se llame `captura_inicio.png`.
+### Registro de usario
 
 ![Captura de inicio](funcionamiento1.jpg)
 
